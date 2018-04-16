@@ -1,0 +1,6 @@
+c:\users\mojekonto\documents\visual studio 2015\Projects\SerwisWymianyOpon1\SerwisWymianyOpon1\bin\Debug\SerwisWymianyOpon1.exe.config
+c:\users\mojekonto\documents\visual studio 2015\Projects\SerwisWymianyOpon1\SerwisWymianyOpon1\bin\Debug\SerwisWymianyOpon1.exe
+c:\users\mojekonto\documents\visual studio 2015\Projects\SerwisWymianyOpon1\SerwisWymianyOpon1\bin\Debug\SerwisWymianyOpon1.pdb
+c:\users\mojekonto\documents\visual studio 2015\Projects\SerwisWymianyOpon1\SerwisWymianyOpon1\obj\Debug\SerwisWymianyOpon1.csprojResolveAssemblyReference.cache
+c:\users\mojekonto\documents\visual studio 2015\Projects\SerwisWymianyOpon1\SerwisWymianyOpon1\obj\Debug\SerwisWymianyOpon1.exe
+c:\users\mojekonto\documents\visual studio 2015\Projects\SerwisWymianyOpon1\SerwisWymianyOpon1\obj\Debug\SerwisWymianyOpon1.pdb
